@@ -11,6 +11,7 @@
 *.sln.docstates
 *.swp
 .DS_Store
+__MACOSX/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

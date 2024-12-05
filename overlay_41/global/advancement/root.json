@@ -1,14 +1,14 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:potion"
+      "id": "minecraft:knowledge_book"
     },
-    "title": "Witches Drop Blaze Powder",
-    "description": "Adds blaze powder to the witch loot table",
+    "title": "Installed Data Packs",
+    "description": "",
+    "background": "minecraft:textures/block/gray_concrete.png",
     "show_toast": false,
     "announce_to_chat": false
   },
-  "parent": "global:notblue",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:tick"
