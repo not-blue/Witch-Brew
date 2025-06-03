@@ -1,5 +1,5 @@
-Pack name:  
-Pack URL:   
+Pack name:  Witches Drop Blaze Powder
+Pack URL:   https://modrinth.com/datapack/witches-drop-blaze-powder 
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
 
