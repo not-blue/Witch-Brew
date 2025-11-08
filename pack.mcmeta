@@ -3,8 +3,10 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 999
+      "max_inclusive": 88
     },
+    "min_format": [15, 0],
+    "max_format": [88, 0],
     "description": "Witches sometimes drop blaze powder"
   },
   "overlays": {
@@ -14,20 +16,26 @@
           "min_inclusive": 41,
           "max_inclusive": 44
         },
+        "min_format": [41, 0],
+        "max_format": [44, 0],
         "directory": "overlay_41"
       },
       {
         "formats": {
           "min_inclusive": 45,
-          "max_inclusive": 999
+          "max_inclusive": 88
         },
+        "min_format": [45, 0],
+        "max_format": [88, 0],
         "directory": "overlay_48"
       },
       {
         "formats": {
           "min_inclusive": 71,
-          "max_inclusive": 999
+          "max_inclusive": 88
         },
+        "min_format": [71, 0],
+        "max_format": [88, 0],
         "directory": "overlay_71"
       }
     ]
